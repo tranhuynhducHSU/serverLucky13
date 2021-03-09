@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "the-deck-of-card",
+  "private_key_id": "6fb3165a88524702a9504c859a35890bbfce12e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPTt/W9PCSZk5a\nuFGrjNj7Hvb00Vlz/Bslc0WX010o5QAgh32iwbpKVln9pZa+6QeaVKP/lqXE6ecg\nVpwyDHeBpKhT2kiH/KjUijosFhlgMnxLBNTAPTVYKasmI2VkhCjcKbwkGQ619doT\nz8/ssppZ58nkSezAb7IkqVcuIIgY1SEru6KbIiX/PFuvpC5bbcZ4sI5o7rCh+1sf\n6uuFIxYCPxY72hWXrPAWmauIe+t0ZGVTi3L3RRk6a9XP2N4SD7aC3WubwhtlWf1f\n75Zfm4cewXMf5ebWQikAhU7X0KWhxzibBO8dV/eb6NMoqJ3FSvco6gPm527e8mzk\nOOak5kLHAgMBAAECggEAAlwZfC7pliEH/0xd0aAW0DT4Bq1jYUibXn/DaQkE5HRG\n3hfsvC+MWVBGUfbSknXAmmcgPsaOOIGZGesieAdgTN988wdnD/U2TsUMCHhv7YJl\nm80ARvfrZYeD5Tk97Dj85hSriZWnbzbPNq6E5WLbEu7qg2i8AyzCUFyFG4dPRUkS\nifDl7ZApNjPuFb7VXkJgFmhBVtLhDgHvALwaDkI4jWX3Stzt9omKLV2uq360DsuG\nI7jrQF4QDFjQwhxNEcc6U+g27balTcikZLvOZuTMhBy9ZPEBgMC6Tb+flWb7up9L\nwH+PGgmcmiPUiFvY52librzonqUPfHdApyfRygMikQKBgQDvgvgv3bmQJsDDUXYo\nN97stqOZNF/okKj6EeL63bU6OM7fx4JazOCQmetUWGhKt4KZ5sTvcPOkFjchf2lX\njISNBv0agfqhfcrHzTRVJJlVAz+c8F9yCiQbOMb2WiZQQTuufrbs6lsofAx3D0d5\nhlZJ1Pa00GOrigq00T3YMmoVJQKBgQDdlF3qsFZ5lNS4DODF73wzZfcVF6g3onvl\n+Q/nm6qp0M9gCTMSI4FRcx7iy2bTsrsKI6lalwaBWtDOw2AFdwdZ0tqKFy4TfpHk\nzQAvJVIDH+Fny97XBmBD1i5yOCbbWKTOIKi9tHViFWrijey4D4AODtuCB4Z2oCXK\ndwW2p7OSewKBgFCwn+qIWV6+H4zt4c+02u6GrWEM6w7PxY3R/tUjYk3GG7P6Y+kx\nQqqUoFqfGiup3V76Bvjf5cUvEs2/Pf8XwQQ+CYEnrwc++NUNRgc1OE8StBisRouF\n7Roaq7UNNAEvqOqll/0DC0j9Wbm2tQ60+lcPXzoVRq7g57B5Gcu/WEvdAoGAF2nP\nBrZ9XLmCRLRvp9qnaBL1KdBnIQHVT7ainJmRTgJXd1FhiSAhUQb2E4bkpaf0JZ0h\nDwZ4VIDRIZf5dHpgV3h1STQr1TmBlwimZVTvNo9O1RXwxQ3SbDicjcsrJ/BU8cb3\nrZv871FOCwRuKADTSij9vt6msbA4bg1nmCZeTjMCgYAMIw4Mapk/cQk8wuIG0jBA\n+dAbajrxUstFgogQjRPhmTHksmZ06bNuB6MSiSCyCx0evaBtXdXUdm7fSRcZnK5y\nqgTI4Zg+nmwAtXXLlmluapq4C2dfRRIqIx0Hnx9wUJQGn7U+17fipvE2LCDpSCj9\nTgF3nJ5QoQg/RGNwQ/sK8Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-uv9dm@the-deck-of-card.iam.gserviceaccount.com",
+  "client_id": "105667185375617599079",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uv9dm%40the-deck-of-card.iam.gserviceaccount.com"
+}
